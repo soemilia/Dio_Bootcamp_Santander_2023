@@ -1,4 +1,4 @@
-![Logo](https://1drv.ms/i/s!Aj2HxxvE19t9jrgELu5fAmieRmsbPA?e=UcNxNm)
+![Logo](https://raw.githubusercontent.com/soemilia/Dio_Bootcamp_Santander_2023/main/Logo.png)
 
 
 # Dio_Bootcamp_Santander_2023
