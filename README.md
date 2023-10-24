@@ -1,3 +1,6 @@
+![Logo](https://i.ytimg.com/vi/ex12hW8cqRE/maxresdefault.jpg)
+
+
 # Dio_Bootcamp_Santander_2023
 
 Repositório para os Desafios do Bootcamp Santander 2023 - Ciência de Dados com Python
